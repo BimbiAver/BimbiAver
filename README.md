@@ -4,7 +4,7 @@
 [<img alt="Bimbi Aver" height="70px" src="https://bimbiaver.com/wp-content/uploads/2021/05/logo-transparent.svg" />][website]
 
 
-## I'm a Full Stack Developer and Designer!!
+## Full Stack Developer & Designer 👨🏻‍💻📱 | Undergraduate at University of Plymouth 👨🏻‍🎓 | Freelancer 💻 | IT Enthusiast ✨
 
 Hi, I'm Deshan. 🙂 An ambitious and self-motivated full-stack developer and designer with over eight years of experience specializing in developing both web-based and computer-based software and platforms, web designing, mobile application development, UI/UX designing and graphic designing. 👨‍💻 I bring forth innovative ideas, analytical approach along with superior product knowledge and organizational abilities, and analytical skills for mutual growth and success. I always want to learn more, do more and be more. My mission is to solve your complex problems with beautiful and innovative designs. I’m hard-working, super curious, passionate, committed, and also a fast learner! 😍💯 I would love to help you with your desired project. I'm a hard-working and dedicated person. Let's create together!!! 💪❤️
 
