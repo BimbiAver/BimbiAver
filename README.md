@@ -16,9 +16,9 @@ Hi, I'm Deshan. 🙂 An ambitious and self-motivated full-stack developer and de
 
 I transform your ideas and problems into beautiful creative solutions. Reach your goals with an excellent user experience.
 
-𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲: Before I jump into a project, I like to learn about you and your requirement, and why you need my help. This stage includes several steps.
-𝐃𝐞𝐬𝐢𝐠𝐧: After that, I make those ideas real. Here I design your product and visualize what you really wanted. At the end, you’ll have a pixel-perfect design for your product.
-𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: This is the implementation phase. Since I’m a developer and designer, I can easily work in close collaboration with both of these tasks.
+𝐔𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲: Before I jump into a project, I like to learn about you and your requirement, and why you need my help. This stage includes several steps.<br/>
+𝐃𝐞𝐬𝐢𝐠𝐧: After that, I make those ideas real. Here I design your product and visualize what you really wanted. At the end, you’ll have a pixel-perfect design for your product.<br/>
+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: This is the implementation phase. Since I’m a developer and designer, I can easily work in close collaboration with both of these tasks.<br/>
 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐀𝐬𝐬𝐮𝐫𝐚𝐧𝐜𝐞: Complete overview of the process. With the initial product, I’ll do testing with you to ensure the best possible solutions for your needs. Also, I’m always looking for ways to improve what you do.
 
 --------------------------------------------------------------------------------------------------------------
