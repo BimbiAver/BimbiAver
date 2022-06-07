@@ -58,10 +58,10 @@ Have a project idea where you need some help? Send me a message, and let’s cha
 
 [website]: https://bimbiaver.com
 [course]: https://bimbiaver.com
-[twitter]: https://bimbiaver.com
+[twitter]: https://twitter.com/BimbiAver
 [youtube]: https://bimbiaver.com
 [instagram]: https://bimbiaver.com
-[linkedin]: https://bimbiaver.com
+[linkedin]: https://www.linkedin.com/in/bimbiaver
 [webdevplaylist]: https://bimbiaver.com
 [jsplaylist]: https://bimbiaver.com
 [cssplaylist]: https://bimbiaver.com
