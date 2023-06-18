@@ -1,14 +1,14 @@
-## Hi there, I'm Deshan - AKA [Bimbi Aver][website] 👋
+## Hi there, I'm Deshan - AKA [BimbiAver][website] 👋
 
 
 [<img alt="Bimbi Aver" height="70px" src="https://bimbiaver.com/wp-content/uploads/2021/05/logo-transparent.svg" />][website]
 
 
-### Full Stack Developer & Designer 👨🏻‍💻📱 | Undergraduate at University of Plymouth 👨🏻‍🎓 | Freelancer 💻 | IT Enthusiast ✨
+### Full Stack Developer & Designer 👨🏻‍💻📱 | Freelancer 💻 | IT Enthusiast ✨
 
-Hi, I'm Deshan. 🙂 An ambitious and self-motivated full-stack developer and designer with over eight years of experience specializing in developing both web-based and computer-based software and platforms, web designing, mobile application development, UI/UX designing and graphic designing. 👨‍💻 I bring forth innovative ideas, analytical approach along with superior product knowledge and organizational abilities, and analytical skills for mutual growth and success. I always want to learn more, do more and be more. My mission is to solve your complex problems with beautiful and innovative designs. I’m hard-working, super curious, passionate, committed, and also a fast learner! 😍💯 I would love to help you with your desired project. I'm a hard-working and dedicated person. Let's create together!!! 💪❤️
+Hi, I'm Deshan. 🙂 I am an ambitious and self-motivated full-stack developer and designer with over eight years of experience. My expertise lies in developing web-based and computer-based software and platforms, web designing, mobile application development, UI/UX designing, and graphic designing. 👨‍💻 I bring forth innovative ideas and analytical approaches, combined with superior product knowledge, organizational abilities, and analytical skills, to foster mutual growth and success. I am always eager to learn, accomplish more, and strive for excellence. My mission is to solve complex problems through beautiful and innovative products. I am hard-working, inquisitive, passionate, committed, and a fast learner! 🧠 I would be delighted to assist you with your desired project. I am dedicated and devoted to my work. Let's collaborate and create something extraordinary together! 💪🖤
 
-𝘐 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬 𝘳𝘦𝘮𝘰𝘵𝘦𝘭𝘺 𝘸𝘪𝘵𝘩 𝘢 𝘴𝘦𝘭𝘦𝘤𝘵𝘦𝘥 𝘤𝘭𝘪𝘦𝘯𝘵 𝘣𝘢𝘴𝘦 𝘢𝘯𝘥 𝘢𝘮 𝘰𝘱𝘦𝘯 𝘵𝘰 𝘯𝘦𝘸 𝘰𝘱𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘵𝘪𝘦𝘴. ✨
+𝘐 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬 𝘳𝘦𝘮𝘰𝘵𝘦𝘭𝘺 𝘸𝘪𝘵𝘩 𝘢 𝘴𝘦𝘭𝘦𝘤𝘵𝘦𝘥 𝘤𝘭𝘪𝘦𝘯𝘵 𝘣𝘢𝘴𝘦 𝘢𝘯𝘥 𝘐 𝘢𝘮 𝘰𝘱𝘦𝘯 𝘵𝘰 𝘯𝘦𝘸 𝘰𝘱𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘵𝘪𝘦𝘴. ✨
 
 --------------------------------------------------------------------------------------------------------------
 
