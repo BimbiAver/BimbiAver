@@ -4,9 +4,17 @@
 [<img alt="Bimbi Aver" height="70px" src="https://bimbiaver.com/wp-content/uploads/2021/05/logo-transparent.svg" />][website]
 
 
-### Full Stack Developer & Designer 👨🏻‍💻📱 | Freelancer 💻 | IT Enthusiast ✨
+### DevOps Engineer 🚀 | Full Stack Developer & Designer 👨🏻‍💻📱 | Freelancer 🥷🏻 | Technophile ✨
 
-Hi, I'm Deshan. 🙂 I am an ambitious and self-motivated full-stack developer and designer with over eight years of experience. My expertise lies in developing web-based and computer-based software and platforms, web designing, mobile application development, UI/UX designing, and graphic designing. 👨‍💻 I bring forth innovative ideas and analytical approaches, combined with superior product knowledge, organizational abilities, and analytical skills, to foster mutual growth and success. I am always eager to learn, accomplish more, and strive for excellence. My mission is to solve complex problems through beautiful and innovative products. I am hard-working, inquisitive, passionate, committed, and a fast learner! 🧠 I would be delighted to assist you with your desired project. I am dedicated and devoted to my work. Let's collaborate and create something extraordinary together! 💪🖤
+Hi, I'm Deshan, a results-driven DevOps engineer, experienced full-stack web developer and mobile application developer. With a solid background in both disciplines, I bring a unique blend of skills to deliver exceptional solutions. 👨‍💻
+
+In my current role as a full-time DevOps engineer at IFS AB, I specialize in implementing and managing continuous integration and deployment pipelines, optimizing infrastructure scalability, and automating workflows. I have a keen eye for improving system reliability, performance, and security, ensuring seamless operations in cloud environments. 🚀
+
+Additionally, I actively engage in freelancing projects centred around full-stack web development and mobile application development. With over eight years of expertise in these domains, I excel in developing robust web applications and mobile applications, leveraging cutting-edge technologies. I have a knack for creating intuitive user interfaces, crafting engaging user experiences, and implementing scalable backend architectures. 🌐
+
+My commitment to excellence and continuous improvement drives me to stay up-to-date with the latest industry trends and best practices. I thrive in collaborative environments, where I can combine my technical proficiency with a passion for problem-solving to create extraordinary products. I am dedicated, diligent, and adept at quickly learning new technologies and tools. 🧠💪
+
+Whether you need assistance with DevOps implementations, infrastructure management, full-stack web development, or mobile application development projects, I am here to help. Let's collaborate and create something extraordinary together! 🤝🖤
 
 𝘐 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬 𝘳𝘦𝘮𝘰𝘵𝘦𝘭𝘺 𝘸𝘪𝘵𝘩 𝘢 𝘴𝘦𝘭𝘦𝘤𝘵𝘦𝘥 𝘤𝘭𝘪𝘦𝘯𝘵 𝘣𝘢𝘴𝘦 𝘢𝘯𝘥 𝘐 𝘢𝘮 𝘰𝘱𝘦𝘯 𝘵𝘰 𝘯𝘦𝘸 𝘰𝘱𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘵𝘪𝘦𝘴. ✨
 
